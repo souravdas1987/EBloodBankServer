@@ -1,0 +1,2 @@
+# EBloodBankServer
+# REST implmentation
